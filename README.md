@@ -11,8 +11,8 @@ The chart pages explore revenue by product and group, monthly patterns, average 
 ## Run locally
 
 ```bash
-git clone https://github.com/bigbaboy/LeminhDat48291.git
-cd LeminhDat48291
+git clone https://github.com/bigbaboy/sales-chart-explorer-d3.git
+cd sales-chart-explorer-d3
 python -m http.server 8000 --bind 127.0.0.1
 ```
 
@@ -32,10 +32,10 @@ Start with product/group revenue, then inspect time patterns and order frequenci
 
 ## Related versions
 
-- [Standalone pages](https://github.com/bigbaboy/LeMinhDat)
-- [Navigation interface](https://github.com/bigbaboy/LeminhDat48291)
-- [Django and relational database version](https://github.com/bigbaboy/221124029109-LeMinhDat-48K29.1)
-- [Team sales/segment dashboard](https://github.com/bigbaboy/GroupDV118)
+- [Standalone pages](https://github.com/bigbaboy/sales-visualization-d3-exercises)
+- [Navigation interface](https://github.com/bigbaboy/sales-chart-explorer-d3)
+- [Django and relational database version](https://github.com/bigbaboy/sales-analytics-django-sqlite)
+- [Sales/segment dashboard](https://github.com/bigbaboy/sales-customer-segmentation-dashboard)
 
 These repositories share related coursework questions. They should be understood as implementation variants, not counted as unrelated commercial projects.
 
